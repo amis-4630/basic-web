@@ -1,0 +1,16 @@
+{ 
+    "customizations": {
+        "vscode": {
+            "extensions": [
+				"redhat.vscode-yaml",
+				"tinkertrain.theme-panda",
+				"dbaeumer.vscode-eslint",
+				"esbenp.prettier-vscode",
+				"blackgirlbytes.deploy-to-github-pages",
+				"streetsidesoftware.code-spell-checker",
+				"codespaces-Contrib.codeswing",
+				"vsls-contrib.codetour"
+			]
+        }
+    }
+}
