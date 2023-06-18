@@ -21,4 +21,4 @@ The Basic Web repository supports the workshop "Introduction to HTML, CSS, and J
 
 ## Attributions
 
-1. Rizel Scarlett
+1. Rizel Scarlett - this workshop was created from and inpired by her article [How to run a frontend workshop in Codespaces](https://dev.to/github/how-to-run-a-frontend-workshop-in-codespaces-2ede)
